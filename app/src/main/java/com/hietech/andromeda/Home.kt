@@ -1,3 +1,4 @@
+@file:OptIn(androidx.compose.foundation.ExperimentalFoundationApi::class)
 package com.hietech.andromeda
 
 import androidx.compose.foundation.*
